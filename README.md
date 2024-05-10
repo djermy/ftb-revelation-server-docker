@@ -1,4 +1,4 @@
-# tekxit-pi-server-docker
+# FTB-Revelation-server-docker
 
 This repository contains some basic scripts to run a FTB Revelation Server in a
 Docker container.
